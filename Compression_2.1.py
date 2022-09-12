@@ -1,7 +1,4 @@
-"""
-Created on Tue Oct  6 00:15:58 2020
-@author: mockingbird01001
-"""
+#Shaposhnik Vladislav IB/b-21-1-o Today is 12 September
 
 import matplotlib.pyplot as plt
 import numpy as np
